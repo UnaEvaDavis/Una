@@ -29,3 +29,6 @@ DOMAIN,www.bing.com
 
 # > Meta
 DOMAIN,imagine.meta.com
+
+# perplexity AI
+DOMAIN-SUFFIX,perplexity.ai
