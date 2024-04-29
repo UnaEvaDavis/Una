@@ -6,6 +6,7 @@ DOMAIN,download.jetbrains.com
 DOMAIN,origin-a.akamaihd.net
 # ---(Microsoft)---
 # > Outlook
+DOMAIN-SUFFIX,hotmail.com
 DOMAIN,outlook.office365.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.office365.com
