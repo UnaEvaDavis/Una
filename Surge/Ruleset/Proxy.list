@@ -1,3 +1,5 @@
+DOMAIN,whois.arin.net
+DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,178.com // Added for: img4.nga.178.com:443
 DOMAIN-SUFFIX,ngabbs.com // Added for: ngabbs.com:443
 DOMAIN-SUFFIX,ipip.net // Added for: myip.ipip.net:443
