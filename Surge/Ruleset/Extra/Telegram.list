@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
-DOMAIN-SUFFIX,telemetrydeck.com
 # > Americas
 IP-ASN,59930,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
