@@ -515,3 +515,8 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
+# > Z-Library
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,z-library.sx
+
