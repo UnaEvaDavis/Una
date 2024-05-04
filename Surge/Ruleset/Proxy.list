@@ -1,3 +1,20 @@
+DOMAIN-SUFFIX,cambaddies.com // Added for: cambaddies.com:443
+DOMAIN-SUFFIX,xxxviijmp.com // Added for: go.xxxviijmp.com:443
+DOMAIN-SUFFIX,cloudflareinsights.com // Added for: static.cloudflareinsights.com:443
+DOMAIN-SUFFIX,xhamster.com // Added for: xhamster.com:443
+DOMAIN-SUFFIX,stripchat.webcam // Added for: stripchat.webcam:443
+DOMAIN-SUFFIX,superchat.live // Added for: superchat.live:443
+DOMAIN-SUFFIX,doppiocdn.media // Added for: video.doppiocdn.media:443
+DOMAIN-SUFFIX,strip.chat // Added for: strip.chat:443
+DOMAIN-SUFFIX,xham.live // Added for: xham.live:443
+DOMAIN-SUFFIX,saawsedge.com // Added for: video.saawsedge.com:443
+DOMAIN-SUFFIX,mnaspm.com // Added for: creative.mnaspm.com:443
+DOMAIN-SUFFIX,sacdnssedge.com // Added for: video.sacdnssedge.com:443
+DOMAIN-SUFFIX,strpst.com // Added for: img.strpst.com:443
+DOMAIN,stripchatgirls.com // Added for: stripchatgirls.com:443
+DOMAIN-SUFFIX,xlvirdr.com // Added for: go.xlvirdr.com:443
+DOMAIN-SUFFIX,netflav5.com // Added for: netflav5.com:443
+DOMAIN-SUFFIX,stripchat.com // Added for: stripchat.com:443
 DOMAIN,whois.arin.net
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,178.com // Added for: img4.nga.178.com:443
@@ -36,6 +53,7 @@ DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,anchor.fm
+DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,archive.md
@@ -71,6 +89,7 @@ DOMAIN-SUFFIX,deadline.com
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
+DOMAIN-SUFFIX,devv.ai
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlive.tv
@@ -106,6 +125,7 @@ DOMAIN-SUFFIX,huffpost.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imageglass.org
 DOMAIN-SUFFIX,independent.co.uk
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,is.gd
@@ -151,6 +171,7 @@ DOMAIN-SUFFIX,pastie.org
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,pcloud.com
 DOMAIN-SUFFIX,peing.net
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,poe.com
@@ -158,6 +179,7 @@ DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,privoxy.org
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,proxifier.com
+DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,qz.com
@@ -205,6 +227,7 @@ DOMAIN-SUFFIX,tiny.cc
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,turbobit.net
+DOMAIN-SUFFIX,typeset.io
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,ustream.tv
@@ -225,6 +248,7 @@ DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wn.com
+DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,worldcat.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
@@ -237,7 +261,6 @@ DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
-
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cdn.statically.io
 DOMAIN,hub.docker.com
@@ -498,3 +521,8 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
+# > Z-Library
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,z-library.sx
+
