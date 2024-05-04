@@ -1,17 +1,35 @@
 # 自己添加的
-
+# av
+DOMAIN-SUFFIX,cambaddies.com
+DOMAIN-SUFFIX,xxxviijmp.com
+DOMAIN-SUFFIX,cloudflareinsights.com 
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,stripchat.webcam
+DOMAIN-SUFFIX,superchat.live
+DOMAIN-SUFFIX,doppiocdn.media
+DOMAIN-SUFFIX,strip.chat
+DOMAIN-SUFFIX,xham.live
+DOMAIN-SUFFIX,saawsedge.com
+DOMAIN-SUFFIX,mnaspm.com
+DOMAIN-SUFFIX,sacdnssedge.com
+DOMAIN-SUFFIX,strpst.com
+DOMAIN,stripchatgirls.com
+DOMAIN-SUFFIX,xlvirdr.com
+DOMAIN-SUFFIX,netflav5.com
+DOMAIN-SUFFIX,stripchat.com
+# proxy
 DOMAIN,whois.arin.net
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN-SUFFIX,178.com // Added for: img4.nga.178.com:443
-DOMAIN-SUFFIX,ngabbs.com // Added for: ngabbs.com:443
-DOMAIN-SUFFIX,ipip.net // Added for: myip.ipip.net:443
+DOMAIN-SUFFIX,178.com
+DOMAIN-SUFFIX,ngabbs.com
+DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,onetrust.com
 IP-CIDR,66.22.234.152/32,no-resolve
-DOMAIN-SUFFIX,superchatlive.com // Added for: superchatlive.com:443
-DOMAIN-SUFFIX,ossmightyenar.net // Added for: ossmightyenar.net:443
-DOMAIN-SUFFIX,yandex.com // Added for: mc.yandex.com:443
-DOMAIN-SUFFIX,stripcash.com // Added for: stripcash.com:443
-DOMAIN-SUFFIX,xlivesex.com // Added for: xlivesex.com:443
+DOMAIN-SUFFIX,superchatlive.com
+DOMAIN-SUFFIX,ossmightyenar.net
+DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,stripcash.com
+DOMAIN-SUFFIX,xlivesex.com
 DOMAIN,ysbzc.subscribe6.com
 DOMAIN,app-measurement.com 
 DOMAIN-SUFFIX,stripcdn.com
